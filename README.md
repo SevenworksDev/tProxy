@@ -11,7 +11,8 @@
 - Deploy tProxy buttons  
 - Better error pages  
 - Site compatibility list  
-- Use better and faster backend  
+- Use better and faster backend
+- Exploits page
 ## Setup
 Use npm to setup tProxy
 ```
