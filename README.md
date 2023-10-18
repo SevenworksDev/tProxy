@@ -13,6 +13,7 @@
 - Site compatibility list  
 - Use better and faster backend
 - Exploits page
+- Alert user if tProxy gets blocked after 5 fetch() requests to the main page
 ## Setup
 Use npm to setup tProxy
 ```
