@@ -1,4 +1,5 @@
 # tProxy v2
+Ok assholes who fork my stuff, please stop forking these projects then changing the name. at least credit me somewhere or im gonna kick your ass.
 ## Whats new in v2?
 - New looks  
 - Updated links to my pages  
